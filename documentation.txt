@@ -1,0 +1,5 @@
+商城后台管理系统及首页列表大广告位的后台代码实现
+1：使用spring springmvc mybatis整合开发。
+2：通过mybatis逆向工程生成数据库每个表的mapper及pojo。
+3：通过json将后台数据发布到前台。
+4：使用httpclient实现跨域访问。
